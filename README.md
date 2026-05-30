@@ -14,15 +14,16 @@ Designed with modular Java classes and a clean JDBC implementation, this project
 ### Technologies Used:
       -Java (Core + OOP principles)
       -JDBC (Database Connectivity)
-       -SQL (Relational Database)
+      -SQL (Relational Database)
 
-In this project User can:-
-       -Register with Full name, Email and Password.
-       -Login Bank account with Email and Password.
-       -Credit Money
-       -Debit Money
-       -Transfer Money
-       -Check Balance
-       -Logout
+### Working
+    #### User can:-
+           -Register with Full name, Email and Password.
+           -Login Bank account with Email and Password.
+           -Credit Money
+           -Debit Money
+           -Transfer Money
+           -Check Balance
+           -Logout
        
        
