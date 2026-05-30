@@ -17,7 +17,7 @@ Designed with modular Java classes and a clean JDBC implementation, this project
       -SQL (Relational Database)
 
 ### Working
-    #### User can:-
+        User can:-
            -Register with Full name, Email and Password.
            -Login Bank account with Email and Password.
            -Credit Money
