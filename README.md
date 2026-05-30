@@ -4,14 +4,14 @@ The Banking Management System is a Java-based application that simulates essenti
 The project enables users to create accounts, log in securely, deposit and withdraw money, transfer funds between accounts, and check account balances. Data is persisted in a relational database to ensure accuracy and consistency of transactions.
 Designed with modular Java classes and a clean JDBC implementation, this project showcases best practices in Java application development, database connectivity, and real-time transaction handling.
 
-->Key Features:
+### Key Features:
     -Account Management – Create new user accounts with secure credentials.
      -User Authentication – Login and logout with proper validation.
      -Transactions – Deposit, withdraw, and transfer money between accounts.
      -Balance Inquiry – Check current account balance at any time.
      -Database Integration – Persistent data storage and retrieval using JDBC.
 
-->Technologies Used:
+### Technologies Used:
       -Java (Core + OOP principles)
       -JDBC (Database Connectivity)
        -SQL (Relational Database)
